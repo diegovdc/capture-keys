@@ -1,0 +1,12 @@
+{
+  "name": "capture-keys",
+  "version": "1.0.0",
+  "description": "Create callbacks by passing functions to keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Diego Villaseñor",
+  "license": "ISC"
+}
